@@ -1,2 +1,2 @@
 # Verilog-Projects
-This repository showcases Verilog-based digital design projects.
+This repository contains digital design projects made using Verilog HDL.
